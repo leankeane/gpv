@@ -86,6 +86,11 @@
     left: 4px;
 }
 
+.custom .abxy .button {
+    background-image: url(buton.png);
+    background-position-y: -1px;
+}
+
 .custom .abxy .button.a {
     left: 160px;
     top: 105px;
