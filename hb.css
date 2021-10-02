@@ -86,11 +86,6 @@
     left: 4px;
 }
 
-.custom .abxy .button {
-    background-image: url('https://gamepadviewer.com/xbox-assets/abxy.svgz');
-    background-position-y: -1px;
-}
-
 .custom .abxy .button.a {
     left: 160px;
     top: 105px;
