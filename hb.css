@@ -25,7 +25,7 @@
 .custom .abxy .button,
 .custom .triggers .trigger-button,
 .custom .bumpers .bumper {
-    background: rgb(134, 40, 40);
+    background: rgb(0, 0, 0);
     border: 2px solid #222;
     width: 46px;
     height: 46px;
@@ -41,12 +41,6 @@
     box-shadow: 0 0 #222;
     transform: translateY(5px);
     background-position-y: 47px;
-}
-
-.custom .dpad .face {
-    background-image: url(buton.png);
-    background-position-x: -1px;
-    background-position-y: -1px;
 }
 
 .custom .dpad .face.up {
@@ -86,11 +80,6 @@
     left: 4px;
 }
 
-.custom .abxy .button {
-    background-image: url(buton.png);
-    background-position-y: -1px;
-}
-
 .custom .abxy .button.a {
     left: 160px;
     top: 105px;
@@ -112,11 +101,6 @@
     background-position-x: -149px;
 }
 
-.custom .triggers .trigger-button,
-.custom .bumpers .bumper {
-    background-image: url(buton.png);
-    background-position-y: -1px;
-}
 .custom .triggers .trigger-button.right {
     left: 282px;
     top: 85px;
