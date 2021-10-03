@@ -38,7 +38,8 @@
 .custom .abxy .button.pressed,
 .custom .triggers .trigger-button.pressed,
 .custom .bumpers .bumper.pressed {
-    box-shadow: 0 0 rgb(255, 0, 0);
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 #222;
     transform: translateY(5px);
     background-position-y: 47px;
 }
